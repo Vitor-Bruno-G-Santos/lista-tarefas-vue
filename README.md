@@ -1,6 +1,6 @@
 # vue-project
 
-Este é um projeto que fiz para aprender vue, é uma lista de tarefas simples com a parte somente do front-end, pode adicionar, marcar como concluido e remover a tarefa.git 
+Este é um projeto que fiz para aprender vue, é uma lista de tarefas simples com a parte somente do front-end, pode adicionar, marcar como concluido e remover a tarefa
 
 ## Project Setup
 
